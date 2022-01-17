@@ -17,7 +17,7 @@ dependencies:
   micro_commons_design_system:
     git:
       url: https://github.com/luiscovelo/-Curso-Micro-Commons-Design-System.git
-      ref: v1.0.0
+      ref: v1.0.1
 
   flutter:
     sdk: flutter
